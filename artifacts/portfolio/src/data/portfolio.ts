@@ -25,7 +25,7 @@ export const PORTFOLIO_DATA = {
     ],
     socials: {
       github: "https://github.com/mouneesh798",
-      linkedin: "https://linkedin.com/in/mouneeshwaranb1b2a18291",
+      linkedin: "https://www.linkedin.com/in/mouneeshwaran-b-1b2a18291/",
       email: "mailto:mouneeshb123@gmail.com",
     },
   },
