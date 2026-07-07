@@ -2,7 +2,7 @@ import { BlurFade } from "@/animations/BlurFade";
 import { GridPattern } from "@/animations/GridPattern";
 import { SpotlightEffect } from "@/animations/SpotlightEffect";
 import { PORTFOLIO_DATA } from "@/data/portfolio";
-import { Code, Coffee, Globe } from "lucide-react";
+import { Code } from "lucide-react";
 
 export function About() {
   return (
@@ -43,27 +43,6 @@ export function About() {
                 {PORTFOLIO_DATA.about.bio}
               </p>
               
-              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-8">
-                <div className="flex items-center gap-3 p-4 rounded-xl bg-white/5 border border-white/5 backdrop-blur-sm">
-                  <div className="p-2 rounded-lg bg-primary/20 text-primary">
-                    <Globe className="h-5 w-5" />
-                  </div>
-                  <div>
-                    <h4 className="text-white font-medium">Remote Work</h4>
-                    <p className="text-sm text-white/50">Available anywhere</p>
-                  </div>
-                </div>
-                
-                <div className="flex items-center gap-3 p-4 rounded-xl bg-white/5 border border-white/5 backdrop-blur-sm">
-                  <div className="p-2 rounded-lg bg-secondary/20 text-secondary">
-                    <Coffee className="h-5 w-5" />
-                  </div>
-                  <div>
-                    <h4 className="text-white font-medium">Fueled by Coffee</h4>
-                    <p className="text-sm text-white/50">& Passion for code</p>
-                  </div>
-                </div>
-              </div>
             </div>
           </BlurFade>
         </div>
