@@ -1,5 +1,0 @@
-{
-  "buildCommand": "cd artifacts/portfolio && pnpm run build",
-  "outputDirectory": "artifacts/portfolio/dist",
-  "framework": "vite"
-}
