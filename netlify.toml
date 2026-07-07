@@ -1,0 +1,3 @@
+[build]
+  command = "cd artifacts/portfolio && pnpm run build"
+  publish = "artifacts/portfolio/dist/public"
