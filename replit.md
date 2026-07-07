@@ -1,6 +1,6 @@
-# [Project name]
+# Developer Portfolio
 
-_Replace the heading above with the project's name, and this line with one sentence describing what this app does for users._
+A cinematic dark-mode Full Stack Developer portfolio built with React + Vite + Tailwind CSS.
 
 ## Run & Operate
 

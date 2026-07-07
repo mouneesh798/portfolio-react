@@ -1,0 +1,165 @@
+Build a premium, production-ready Full Stack Developer Portfolio using React + Vite + Tailwind CSS.
+
+Before generating any code, set up the project correctly.
+
+Project Requirements:
+- React 19
+- Vite
+- Tailwind CSS
+- shadcn/ui
+- Magic UI
+- React Bits
+- Framer Motion
+- Lucide React
+- TypeScript preferred (JavaScript is acceptable if needed)
+
+Setup Requirements:
+
+1. Initialize shadcn/ui.
+
+2. Configure the React Bits registry by updating components.json with:
+
+{
+  "registries": {
+    "@react-bits": "https://reactbits.dev/r/{name}.json"
+  }
+}
+
+Merge this with the existing components.json instead of replacing the other configuration.
+
+3. Install and use React Bits components wherever appropriate.
+
+4. Install and use Magic UI components.
+
+5. Use shadcn/ui for buttons, cards, dialogs, navigation, forms, sheets, tooltips, badges, tabs, accordions, and other UI elements.
+
+Portfolio Design:
+- Modern Awwwards-inspired design
+- Dark mode
+- Glassmorphism
+- Neon glow effects
+- Aurora animated background
+- Smooth scrolling
+- Premium micro-interactions
+- Cinematic page transitions
+- Fully responsive
+- SEO-friendly
+- Accessible
+- Optimized for performance
+
+Sections:
+- Hero
+- About
+- Skills
+- Experience
+- Projects
+- LeetCode Journey
+- Certifications
+- Contact
+- Footer
+
+Projects:
+- Job & Internship Portal
+- Parking Management System
+- Online Examination System
+- To-Do List Application
+- Portfolio Website
+
+Skills:
+Frontend:
+- HTML
+- CSS
+- JavaScript
+- React
+- Tailwind CSS
+
+Backend:
+- Node.js
+- Express.js
+
+Database:
+- MongoDB
+- MySQL
+
+Programming:
+- Java
+
+Tools:
+- Git
+- GitHub
+- VS Code
+- Vercel
+- Render
+
+Animations (must include):
+- Aurora Background
+- Animated Grid
+- Spotlight
+- Meteors
+- Border Beam
+- Ripple
+- Blur Fade
+- Text Reveal
+- Word Rotate
+- Marquee
+- Floating Icons
+- Magnetic Buttons
+- Animated Cursor
+- Scroll Reveal
+- Number Ticker
+- Animated Skill Bars
+- Scroll Progress Bar
+- Mouse Glow
+- Parallax Effects
+
+React Bits Components:
+- Aurora
+- Particles
+- Spotlight
+- Magnetic Button
+- Cursor Glow
+- Text Reveal
+- Infinite Grid
+- Floating Cards
+- Animated Background
+- Scroll Animations
+
+Magic UI Components:
+- Bento Grid
+- Border Beam
+- Blur Fade
+- Dock
+- Globe
+- Meteors
+- Marquee
+- Ripple
+- Animated Beam
+- Shine Border
+- Number Ticker
+- Grid Pattern
+
+Folder Structure:
+src/
+ ├── components/
+ ├── ui/
+ ├── sections/
+ ├── hooks/
+ ├── lib/
+ ├── animations/
+ ├── assets/
+ ├── data/
+ ├── pages/
+ ├── App.tsx
+ └── main.tsx
+
+Requirements:
+- Use reusable components.
+- Write clean, maintainable code.
+- Use lazy loading where appropriate.
+- Optimize images and animations.
+- Keep animations smooth (60 FPS).
+- Use semantic HTML.
+- Include comments where useful.
+- Do not use placeholder layouts—build a polished, professional portfolio ready for deployment.
+
+Finally, generate all required files, install commands, and dependencies automatically, ensuring that React Bits, Magic UI, and shadcn/ui work together without conflicts.

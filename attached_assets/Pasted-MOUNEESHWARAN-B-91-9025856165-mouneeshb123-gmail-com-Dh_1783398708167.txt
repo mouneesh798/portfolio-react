@@ -1,0 +1,116 @@
+MOUNEESHWARAN B
+
+📞 +91 9025856165
+📧 mouneeshb123@gmail.com
+📍 Dharmapuri, Tamil Nadu
+🔗 LinkedIn: linkedin.com/in/mouneeshwaranb1b2a18291
+💻 GitHub: github.com/mouneesh798
+
+PROFESSIONAL SUMMARY
+
+Passionate Computer Science undergraduate with a strong foundation in Java, Spring Boot, REST APIs, and MySQL. Experienced in developing backend applications and solving Data Structures and Algorithms problems on LeetCode. Seeking a Java Full Stack Developer internship or entry-level role to apply my technical skills, contribute to impactful projects, and continuously enhance my software development expertise.
+
+EDUCATION
+Bachelor of Engineering – Computer Science and Engineering
+
+K.S.R. College of Engineering, Tiruchengode
+CGPA: 8.10/10 (Up to 6th Semester)
+2023 – 2027
+
+Higher Secondary Certificate (HSC)
+
+Shree B.C.R Matric Higher Secondary School, Dharmapuri
+83% | 2022 – 2023
+
+Secondary School Leaving Certificate (SSLC)
+
+Shree B.C.R Matric Higher Secondary School, Dharmapuri
+100% | 2020 – 2021
+
+TECHNICAL SKILLS
+Programming Languages
+Java
+Backend
+Spring Boot
+REST APIs
+Frontend
+HTML
+CSS
+JavaScript
+Bootstrap
+Database
+MySQL
+Tools & Technologies
+Git
+GitHub
+Maven
+VS Code
+Core Concepts
+Object-Oriented Programming (OOP)
+Collections Framework
+Exception Handling
+JDBC
+Data Structures & Algorithms
+Problem Solving
+INTERNSHIP
+Java Intern | Rejoice Company
+
+July 2024 – July 2025
+
+Developed Java-based backend applications using object-oriented programming concepts.
+Implemented business logic and optimized application performance.
+Debugged and resolved software issues to improve system reliability.
+Collaborated on mini projects while following coding standards and best practices.
+PROJECTS
+Parking Management System
+
+Java | Spring Boot | REST API | MySQL
+
+Developed a backend Parking Management System using Spring Boot.
+Designed REST APIs for vehicle entry, exit, slot allocation, and billing.
+Integrated MySQL for efficient data storage and retrieval.
+Applied MVC architecture to build a scalable backend application.
+Online Examination System
+
+Core Java | Collections
+
+Developed a console-based examination system using Core Java.
+Implemented student login, examination, and result management.
+Utilized Java Collections for efficient data handling.
+Applied object-oriented programming principles for modular application design.
+CODING PROFILES
+LeetCode
+Solved 30+ Data Structures and Algorithms problems.
+Practicing daily to strengthen problem-solving skills.
+GitHub
+Published Java and Spring Boot projects.
+Maintains personal coding portfolio and project repositories.
+HackerRank
+Practiced Java programming and problem-solving challenges.
+ACHIEVEMENTS
+Solved 30+ LeetCode coding problems.
+Maintained 8.10 CGPA in Computer Science Engineering.
+Completed NPTEL – Introduction to Internet of Things.
+Continuously improving Java and Spring Boot development skills through hands-on projects.
+CERTIFICATIONS
+NPTEL – Introduction to Internet of Things
+NPTEL – Industry 4.0 and Industrial Internet of Things (if completed)
+Java Internship Certificate – Rejoice Company
+REMOVE THESE SECTIONS
+
+❌ Objective (replace with Professional Summary)
+
+❌ Extra Curricular
+
+❌ Canva from Skills
+
+❌ Class Representative
+
+❌ HackerRank 3-Star Achievement
+
+Add these links (recommended)
+GitHub: https://github.com/mouneesh798
+LinkedIn: https://linkedin.com/in/mouneeshwaranb1b2a18291
+LeetCode: Add your LeetCode profile URL under "Coding Profiles."
+
+This version is much more ATS-friendly and better aligned with Java Full Stack Developer internship and fresher roles.
