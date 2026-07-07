@@ -83,13 +83,22 @@ export const PORTFOLIO_DATA = {
   ],
   projects: [
     {
+      id: "job-portal",
+      title: "Job & Internship Portal",
+      description:
+        "A full-stack job board connecting students with opportunities. Features user authentication, role-based dashboards, job listings, and application tracking — built to bridge the gap between fresh graduates and recruiters.",
+      techStack: ["React", "Node.js", "Express", "MongoDB", "Tailwind"],
+      githubUrl: "https://github.com/mouneesh798",
+      liveUrl: "https://job-internship-portal-swart.vercel.app",
+    },
+    {
       id: "parking-system",
       title: "Parking Management System",
       description:
         "A backend Parking Management System built with Spring Boot. Designed REST APIs for vehicle entry/exit, slot allocation, and automated billing. Integrated MySQL for efficient data storage and applied MVC architecture to ensure a scalable, maintainable codebase.",
       techStack: ["Java", "Spring Boot", "REST API", "MySQL", "MVC"],
       githubUrl: "https://github.com/mouneesh798",
-      liveUrl: "#",
+      liveUrl: "https://parking-system-beige.vercel.app",
     },
     {
       id: "exam-system",
@@ -97,15 +106,6 @@ export const PORTFOLIO_DATA = {
       description:
         "A console-based examination platform built with Core Java. Implements student login, timed examination flow, and result management. Leverages Java Collections Framework for efficient in-memory data handling and applies OOP principles for a modular, extensible design.",
       techStack: ["Core Java", "Collections", "OOP", "JDBC"],
-      githubUrl: "https://github.com/mouneesh798",
-      liveUrl: "#",
-    },
-    {
-      id: "portfolio",
-      title: "Cinematic Developer Portfolio",
-      description:
-        "This portfolio — built with React, Vite, and Tailwind CSS. Features aurora backgrounds, Framer Motion animations, glassmorphism cards, a magnetic cursor, and scroll-triggered reveals. Fully dark-mode, responsive, and Awwwards-inspired.",
-      techStack: ["React", "Vite", "Tailwind CSS", "Framer Motion"],
       githubUrl: "https://github.com/mouneesh798",
       liveUrl: "#",
     },
