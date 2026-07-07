@@ -89,7 +89,7 @@ export const PORTFOLIO_DATA = {
         "A full-stack job board connecting students with opportunities. Features user authentication, role-based dashboards, job listings, and application tracking — built to bridge the gap between fresh graduates and recruiters.",
       techStack: ["React", "Node.js", "Express", "MongoDB", "Tailwind"],
       githubUrl: "https://github.com/mouneesh798",
-      liveUrl: "https://job-internship-portal-swart.vercel.app",
+      liveUrl: "#",
     },
     {
       id: "parking-system",
@@ -98,7 +98,7 @@ export const PORTFOLIO_DATA = {
         "A backend Parking Management System built with Spring Boot. Designed REST APIs for vehicle entry/exit, slot allocation, and automated billing. Integrated MySQL for efficient data storage and applied MVC architecture to ensure a scalable, maintainable codebase.",
       techStack: ["Java", "Spring Boot", "REST API", "MySQL", "MVC"],
       githubUrl: "https://github.com/mouneesh798",
-      liveUrl: "https://parking-system-beige.vercel.app",
+      liveUrl: "#",
     },
     {
       id: "exam-system",
